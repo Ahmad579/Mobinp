@@ -1,0 +1,97 @@
+PODS:
+  - ActionSheetPicker-3.0 (2.3.0)
+  - Alamofire (4.6.0)
+  - AlamofireObjectMapper (4.1.0):
+    - Alamofire (~> 4.1)
+    - ObjectMapper (~> 2.0)
+  - CardIO (5.4.1)
+  - Cosmos (14.0.0)
+  - DatePickerDialog (2.0)
+  - IQKeyboardManagerSwift (5.0.0)
+  - JSSAlertView (3.0.4)
+  - Material (2.13.5):
+    - Material/Core (= 2.13.5)
+  - Material/Core (2.13.5):
+    - Motion (~> 1.3.0)
+  - Motion (1.3.4):
+    - Motion/Core (= 1.3.4)
+  - Motion/Core (1.3.4)
+  - NVActivityIndicatorView (4.1.1):
+    - NVActivityIndicatorView/Presenter (= 4.1.1)
+  - NVActivityIndicatorView/Presenter (4.1.1)
+  - ObjectMapper (2.2.9)
+  - PayPal-iOS-SDK (2.18.1):
+    - PayPal-iOS-SDK/CardIO (= 2.18.1)
+    - PayPal-iOS-SDK/Core (= 2.18.1)
+  - PayPal-iOS-SDK/CardIO (2.18.1):
+    - CardIO (~> 5.4.1)
+  - PayPal-iOS-SDK/Core (2.18.1)
+  - PKRevealController (2.0.6)
+  - SCLAlertView (0.7.0)
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+  - SVProgressHUD (2.0-beta)
+  - UIImageView-AGCInitials (0.0.2)
+
+DEPENDENCIES:
+  - ActionSheetPicker-3.0
+  - Alamofire
+  - AlamofireObjectMapper (~> 4.0)
+  - Cosmos
+  - DatePickerDialog
+  - IQKeyboardManagerSwift (= 5.0.0)
+  - JSSAlertView (~> 3.0.4)
+  - Material (~> 2.0)
+  - NVActivityIndicatorView
+  - PayPal-iOS-SDK
+  - PKRevealController
+  - SCLAlertView
+  - SDWebImage (~> 3.8)
+  - SVProgressHUD (= 2.0-beta)
+  - UIImageView-AGCInitials
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - ActionSheetPicker-3.0
+    - Alamofire
+    - AlamofireObjectMapper
+    - CardIO
+    - Cosmos
+    - DatePickerDialog
+    - IQKeyboardManagerSwift
+    - JSSAlertView
+    - Material
+    - Motion
+    - NVActivityIndicatorView
+    - ObjectMapper
+    - PayPal-iOS-SDK
+    - PKRevealController
+    - SCLAlertView
+    - SDWebImage
+    - SVProgressHUD
+    - UIImageView-AGCInitials
+
+SPEC CHECKSUMS:
+  ActionSheetPicker-3.0: eef157d75e151f255c5333d26656c7fbfe905a51
+  Alamofire: f41a599bd63041760b26d393ec1069d9d7b917f4
+  AlamofireObjectMapper: 435adc82f5b367679bd9e71c4974a54efd0b2521
+  CardIO: 56983b39b62f495fc6dae9ad7cf875143df06443
+  Cosmos: 6dd44b65d587033e690ae1c350c875d262a23fda
+  DatePickerDialog: 5e1c24d9fe6506cd45dbc573eed7b0a251b1c09d
+  IQKeyboardManagerSwift: 3f340202ebe1a7076279b9b9b3c817243ddb3aab
+  JSSAlertView: 7d8345c88e6fd8b515bc49f0fc8d8c69f6776b9c
+  Material: ced3fd11882147b135f897ca20227174bb104ad0
+  Motion: 85b8777db2e68801c03a5c629e918c35dd184c8d
+  NVActivityIndicatorView: 60109b9bf46efc2e71ab81453196ccdfdfeea870
+  ObjectMapper: 63cfe41bc6f8e7c8f44344c49901b8ae7de14c52
+  PayPal-iOS-SDK: 10654cd111e911a9807bddb96fae81aacb8e9915
+  PKRevealController: ffb45a16f5a5032ad90a3d16e5cbb0d8e035bd58
+  SCLAlertView: 8a14ffc40590c619e183eed2298b854385f30be1
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+  SVProgressHUD: c83337f10ed32d701c423d519059a249973c8662
+  UIImageView-AGCInitials: 4326faf01587dbfa2ffdee7e596ae96c1beca05c
+
+PODFILE CHECKSUM: 5a1879c2b1c0d2f439a880a6dbedcaa6c81ff748
+
+COCOAPODS: 1.5.2
